@@ -47,7 +47,7 @@ The model is a simple CNN architecture built using **TensorFlow/Keras**, consist
 
 ## 📁 Project Structure
 
-```bash
+```
 MNIST-digit-classification/
 │
 ├── mnist_cnn.ipynb             # Main notebook
@@ -55,6 +55,8 @@ MNIST-digit-classification/
 ├── model.png                   # (optional) Model architecture image
 ├── results/                    # (optional) Sample predictions, confusion matrix
 
+```
+---
 
 ## 📈 Sample Results
 - **Accuracy**: ~98% on test data  
