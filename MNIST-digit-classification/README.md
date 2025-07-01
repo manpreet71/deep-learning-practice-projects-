@@ -54,3 +54,34 @@ MNIST-digit-classification/
 ├── README.md                   # This file
 ├── model.png                   # (optional) Model architecture image
 ├── results/                    # (optional) Sample predictions, confusion matrix
+
+
+## 📈 Sample Results
+- **Accuracy**: ~98% on test data  
+- **Visualizations**:  
+  - Loss & accuracy graphs  
+  - Prediction results
+
+---
+
+## ✅ Future Enhancements
+- Add **dropout** for regularization  
+- Experiment with **deeper CNN layers**  
+- Compare with other models (e.g., **SVM**, **Logistic Regression**)  
+- Create a **web interface** using **Flask** or **Gradio**
+
+---
+
+## 🧠 Learning Outcome
+This project helped reinforce core deep learning concepts, including:
+- Building a **CNN from scratch**  
+- **Overfitting control** techniques  
+- **Evaluating classification performance**
+
+---
+
+## 📬 Feedback & Contributions
+This is a practice project — if you have suggestions or ideas to improve it, feel free to **open an issue or pull request**!
+
+> _"Learning never exhausts the mind."_ — Leonardo da Vinci
+
